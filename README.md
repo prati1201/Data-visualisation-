@@ -13,6 +13,8 @@
 
 -------------------------------------------------------------------------------------------------
 2. Retail Analysis Project - [Retail Analysis](https://github.com/prati1201/Retail-Analysis)
+   - This visualisation is a part of Retail strategy and analysis using python and excel.
+   - Check out the [project](https://github.com/prati1201/Retail-Analysis) for a detailed report.
 ![4](https://github.com/prati1201/Retail-Analysis/blob/main/sales.jpg)
 ![5](https://github.com/prati1201/Retail-Analysis/blob/main/customer.jpg)
 
