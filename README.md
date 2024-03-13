@@ -18,13 +18,7 @@
 
 --------------------------------------------------------------------------------------------------
  3. CO2 Emission Report - [CO2 Emission](https://github.com/prati1201/Data-visualisation-/blob/main/CO2%20Emmision.pbix)
-
-OBJECTIVE :
-1. Co2 Per Capita (metric tons) and Co2(kt) by Country Name, Region, and Year 
-2. Co2(kt) by Country Name and Region(card visual included) 
-3. Map Visual 
-4. World Co2 Emission slicer 
-
+Present a report on Co2 emissions accross the world in Power BI 
 + Overview : Gives the overall picture of Co2 emission at globally
 + Deepdive : Country level analysis of Co2 emission
 
